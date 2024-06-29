@@ -1,0 +1,17 @@
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[MainWindow]
+2 screens: Height=233
+2 screens: Width=411
+2 screens: XPosition=3404
+2 screens: YPosition=822
+HDMI-2 eDP-1=HDMI-2
+State=AAAA/wAAAAD9AAAAAAAAAZsAAACYAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[MainWindowState]
+Splitter=192,215
+
+[Search]
+ScopeSelection=0

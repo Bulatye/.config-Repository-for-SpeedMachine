@@ -1,0 +1,10 @@
+# kitty.conf
+
+# Enable padding
+window_padding_width 25 25
+
+
+# BEGIN_KITTY_THEME
+# Ocean
+include current-theme.conf
+# END_KITTY_THEME

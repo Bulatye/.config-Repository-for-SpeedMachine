@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Exec=cool-retro-term --fullscreen
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Cool Retro Term
+Comment=Start Cool Retro Term on login
+Exec=echo jell

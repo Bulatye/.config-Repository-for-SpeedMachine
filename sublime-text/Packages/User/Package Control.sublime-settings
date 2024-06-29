@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Django",
+		"Earthbound Themes",
+		"GitHub Flavored Markdown Preview",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Python 3",
+		"Theme - Cyanide",
+	],
+}

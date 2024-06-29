@@ -1,0 +1,12 @@
+{
+	"theme": "Cyanide.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Packages/Theme - Cyanide/Cyanide - Acid - Black.tmTheme",
+	"dark_color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+	"light_color_scheme": "Packages/One Dark Material - Theme/schemes/OneDark.tmTheme",
+	"index_files": true,
+	"font_size": 11,
+}

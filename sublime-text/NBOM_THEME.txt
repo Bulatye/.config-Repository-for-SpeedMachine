@@ -1,0 +1,71 @@
+[200~{
+    "name": "ChatGPT Custom Dark Theme",
+    "globals": {
+        "background": "#000000",
+        "foreground": "#FFFF",
+        "caret": "#FFFFFF",
+        "block_caret": "#FFFFFF",
+        "line_highlight": "#333333",
+        "selection": "#ed6d6d",
+        "selection_border": "#777777",
+        "inactive_selection": "#444444",
+        "inactive_selection_border": "#444444",
+        "guide": "#444444",
+        "active_guide": "#888888",
+        "stack_guide": "#555555",
+        "brackets_foreground": "#FFFFFF",
+        "brackets_options": "underline",
+        "bracket_contents_foreground": "#FFFFFF",
+        "tags_foreground": "#FF00FF",
+        "shadow": "#00000030"
+    },
+    "rules": [
+        {
+            "scope": "comment",
+            "foreground": "#008000",
+            "font_style": "italic"
+        },
+        {
+            "scope": "constant.numeric",
+            "foreground": "#FF1493"
+        },
+        {
+            "scope": "constant",
+            "foreground": "#FFD700"
+        },
+        {
+            "scope": "entity.name.class",
+            "foreground": "#ff0000"
+        },
+        {
+            "scope": "keyword",
+            "foreground": "#1E90FF",
+            "font_style": "bold"
+        },
+        {
+            "scope": "string",
+            "foreground": "#00b365"
+        },
+        {
+            "scope": "support",
+            "foreground": "#FF4500"
+        },
+        {
+            "scope": "variable",
+            "foreground": "#FFFFFF"
+        },
+        {
+            "scope": "entity.other.inherited-class",
+            "foreground": "#FFFFFF"
+        },
+        {
+            "scope": "variable.parameter",
+            "foreground": "#FFFFFF"
+        },
+        {
+            "scope": "constant.language.boolean",
+            "foreground": "#1E90FF"
+        },
+    ]
+}
+
