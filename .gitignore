@@ -1,0 +1,28 @@
+# Игнорируем все скрытые файлы и директории
+.*
+
+# Игнорируем все файлы и директории по умолчанию
+*
+# убираем .gitignore из исключений
+!.gitignore
+
+# Явное перечисление остальных файлов и директорий, которые должны быть проигнорированы
+enchant
+gnome-initial-setup-done
+gnome-session
+GNOME-xdg-terminals.list
+goa-1.0
+gtk-3.0
+gtk-4.0
+ibus
+nautilus
+pulse
+tiling-assistant
+ubuntu-xdg-terminals.list
+update-notifier
+user-dirs.dirs
+user-dirs.locale
+xdg-terminals.list
+cool-retro-term.con
+crt-themes/
+nerd-fonts/
