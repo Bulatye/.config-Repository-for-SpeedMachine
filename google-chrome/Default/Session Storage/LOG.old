@@ -1,0 +1,21 @@
+2024/10/10-16:30:02.946 4 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2024/10/10-16:30:02.947 4 Recovering log #145
+2024/10/10-16:30:02.948 4 Reusing old log /home/lightning/.config/google-chrome/Default/Session Storage/000145.log 
+2024/10/11-04:31:01.099 4 Level-0 table #149: started
+2024/10/11-04:31:01.114 4 Level-0 table #149: 32559 bytes OK
+2024/10/11-04:31:01.123 4 Delete type=0 #145
+2024/10/11-05:25:29.340 4 Level-0 table #151: started
+2024/10/11-05:25:29.351 4 Level-0 table #151: 9605 bytes OK
+2024/10/11-05:25:29.356 4 Delete type=0 #148
+2024/10/12-00:40:18.897 4 Level-0 table #153: started
+2024/10/12-00:40:18.912 4 Level-0 table #153: 37152 bytes OK
+2024/10/12-00:40:18.932 4 Delete type=0 #150
+2024/10/12-00:40:18.935 4 Compacting 4@0 + 1@1 files
+2024/10/12-00:40:18.987 4 Generated table #154@0: 4607 keys, 132370 bytes
+2024/10/12-00:40:18.988 4 Compacted 4@0 + 1@1 files => 132370 bytes
+2024/10/12-00:40:19.005 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/12-00:40:19.011 4 Delete type=2 #146
+2024/10/12-00:40:19.011 4 Delete type=2 #153
+2024/10/12-00:40:19.011 4 Delete type=2 #143
+2024/10/12-00:40:19.011 4 Delete type=2 #149
+2024/10/12-00:40:19.011 4 Delete type=2 #151

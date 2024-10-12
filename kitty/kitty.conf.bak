@@ -1,10 +1,8 @@
 # kitty.conf
-
-# Enable padding
-window_padding_width 25 25
-
-
+window_margin_width 25
+# inactive_border_color #cccccc
 # BEGIN_KITTY_THEME
-# Ocean
+# C64
 include current-theme.conf
 # END_KITTY_THEME
+enable_audio_bell no

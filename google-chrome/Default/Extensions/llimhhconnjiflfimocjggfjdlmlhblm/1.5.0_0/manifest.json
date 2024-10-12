@@ -1,0 +1,44 @@
+{
+   "action": {
+      "default_icon": "assets/images/icon.png",
+      "default_title": "Reader Mode"
+   },
+   "background": {
+      "service_worker": "javascripts/background.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "js": [ "redirectcheck.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   }, {
+      "js": [ "javascripts/libs/ajaxLogs/injection.js" ],
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": {
+      "sandbox": "sandbox allow-scripts; 'unsafe-inline' 'self'"
+   },
+   "description": "A feature-packed distraction-free web reader with dyslexia support and research tools",
+   "homepage_url": "https://readermode.io",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "assets/images/icon128.png",
+      "16": "assets/images/icon16.png",
+      "48": "assets/images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvIVSPJM528/Wjce//GE7ktr2Q0R/ndSSusSaWJCFCbPGDe5ux/gQCSxhtrTR0woqmivGzM+u+9/l4AtJA/SBK+uvccojsPyjcnnCdLnCRAS6cBQQkhQht2jMP2swr/uA8PUDHXggME+SklM29iulPOCYgpA1AquGF7bd/uef+UCYU7rVSYr3g71hxMDEqSaLeNUI4p1E8tQIZ5rb2IPMLUcvxkX8NXe3fkxmbu60qZn3yAFonAbQPAO42NnQG1Gr2bTNVYArwzB4CAfpeFs5JsA2tg2W0ju6x0q2Oeyji8FtpiQNlEY8I7zQ7QkSu/nChcVvomHVvDlMp+WOKSPiBQIDAQAB",
+   "manifest_version": 3,
+   "name": "Reader Mode",
+   "options_ui": {
+      "page": "options.html"
+   },
+   "permissions": [ "alarms", "tabs", "storage", "webRequest", "webNavigation", "scripting", "activeTab" ],
+   "short_name": "Reader Mode",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5.0",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "*.html", "assets/*", "javascripts/*", "styles/*", "popup_notification.html", "sdk_translations.json", "assets/images/icon128.png" ]
+   } ]
+}

@@ -1,0 +1,31 @@
+2024/09/30-22:15:48.654 982 Creating DB /home/lightning/.config/google-chrome/Default/IndexedDB/https_moneyman.ru_0.indexeddb.leveldb since it was missing.
+2024/09/30-22:15:48.673 982 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_moneyman.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/30-22:15:49.056 985 Level-0 table #5: started
+2024/09/30-22:15:49.068 985 Level-0 table #5: 1731 bytes OK
+2024/09/30-22:15:49.082 985 Delete type=0 #3
+2024/09/30-22:15:49.083 985 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/30-22:15:49.095 98d Level-0 table #7: started
+2024/09/30-22:15:49.100 98d Level-0 table #7: 2449 bytes OK
+2024/09/30-22:15:49.104 98d Delete type=0 #4
+2024/09/30-22:15:49.104 98d Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/30-22:15:49.127 983 Level-0 table #9: started
+2024/09/30-22:15:49.132 983 Level-0 table #9: 1680 bytes OK
+2024/09/30-22:15:49.137 983 Delete type=0 #6
+2024/09/30-22:15:49.138 983 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\xc8\x18\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00-\x00h\x00e\x00a\x00r\x00t\x00b\x00e\x00a\x00t\x00-\x00s\x00t\x00o\x00r\x00e' @ 299 : 1
+2024/09/30-22:15:49.138 983 Compacting 1@0 + 1@1 files
+2024/09/30-22:15:49.142 983 Generated table #10@0: 129 keys, 2208 bytes
+2024/09/30-22:15:49.142 983 Compacted 1@0 + 1@1 files => 2208 bytes
+2024/09/30-22:15:49.146 983 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/30-22:15:49.146 983 Delete type=2 #9
+2024/09/30-22:15:49.147 983 Manual compaction at level-0 from '\x00\x09\x00\x00\xc8\x18\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00-\x00h\x00e\x00a\x00r\x00t\x00b\x00e\x00a\x00t\x00-\x00s\x00t\x00o\x00r\x00e' @ 299 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/30-22:15:49.460 98d Level-0 table #12: started
+2024/09/30-22:15:49.463 98d Level-0 table #12: 1756 bytes OK
+2024/09/30-22:15:49.467 98d Delete type=0 #8
+2024/09/30-22:15:49.467 98d Delete type=2 #7
+2024/09/30-22:15:49.467 982 Manual compaction at level-0 from '\x00\x0a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0a\x00\x00\x05' @ 378 : 1
+2024/09/30-22:15:49.467 982 Compacting 1@0 + 1@1 files
+2024/09/30-22:15:49.477 982 Generated table #13@0: 153 keys, 2986 bytes
+2024/09/30-22:15:49.477 982 Compacted 1@0 + 1@1 files => 2986 bytes
+2024/09/30-22:15:49.485 982 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/09/30-22:15:49.486 982 Delete type=2 #12
+2024/09/30-22:15:49.487 982 Manual compaction at level-0 from '\x00\x0a\x00\x00\x05' @ 378 : 1 .. '\x00\x0b\x00\x00\x00' @ 0 : 0; will stop at (end)

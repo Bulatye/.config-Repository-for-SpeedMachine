@@ -1,0 +1,6 @@
+2024/10/02-10:05:10.060 982 Creating DB /home/lightning/.config/google-chrome/Default/IndexedDB/https_photoshoponline.ru_0.indexeddb.leveldb since it was missing.
+2024/10/02-10:05:10.072 982 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_photoshoponline.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/02-10:05:12.386 983 Level-0 table #5: started
+2024/10/02-10:05:12.392 983 Level-0 table #5: 3131 bytes OK
+2024/10/02-10:05:12.397 983 Delete type=0 #3
+2024/10/02-10:05:12.397 983 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

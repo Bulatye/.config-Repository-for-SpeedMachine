@@ -1,0 +1,1649 @@
+{
+  "coc-python|global": {
+    "INTERPRETERS_CACHE_v3_CondaEnvFileService": [],
+    "INTERPRETERS_CACHE_v3_CondaEnvService": [],
+    "INTERPRETERS_CACHE_v3_VirtualEnvService": [],
+    "/usr/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "85cf48926e6ee7df9f82daf9a055da831d9ebab751fb09597b67a1ffd5b7ae4239f29e028d49973d3050499d4ee7bf79aaee5f446612d32ebccf7034c3924654"
+      },
+      "expiry": 1728653712658
+    },
+    "/usr/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621"
+      },
+      "expiry": 1728653712693
+    },
+    "/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "85cf48926e6ee7df9f82daf9a055da831d9ebab751fb09597b67a1ffd5b7ae4239f29e028d49973d3050499d4ee7bf79aaee5f446612d32ebccf7034c3924654"
+      },
+      "expiry": 1728653712678
+    },
+    "/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621"
+      },
+      "expiry": 1728653712684
+    },
+    "/home/lightning/yandex_dev/django_sprint1/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint1/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint1/venv",
+        "fileHash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4"
+      },
+      "expiry": 1727009081130
+    },
+    "INTERPRETERS_CACHE_v3_CurrentPathService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+        "type": "Unknown"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_KnownPathsService": [
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "85cf48926e6ee7df9f82daf9a055da831d9ebab751fb09597b67a1ffd5b7ae4239f29e028d49973d3050499d4ee7bf79aaee5f446612d32ebccf7034c3924654",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "85cf48926e6ee7df9f82daf9a055da831d9ebab751fb09597b67a1ffd5b7ae4239f29e028d49973d3050499d4ee7bf79aaee5f446612d32ebccf7034c3924654",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/usr/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "85cf48926e6ee7df9f82daf9a055da831d9ebab751fb09597b67a1ffd5b7ae4239f29e028d49973d3050499d4ee7bf79aaee5f446612d32ebccf7034c3924654",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/usr",
+        "fileHash": "85cf48926e6ee7df9f82daf9a055da831d9ebab751fb09597b67a1ffd5b7ae4239f29e028d49973d3050499d4ee7bf79aaee5f446612d32ebccf7034c3924654",
+        "type": "Unknown"
+      }
+    ],
+    "/home/lightning/yandex_dev/django_sprint1/venv/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint1/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint1/venv",
+        "fileHash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4"
+      },
+      "expiry": 1727009081162
+    },
+    "/home/lightning/yandex_dev/django_sprint1/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint1/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint1/venv",
+        "fileHash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4"
+      },
+      "expiry": 1727009081164
+    },
+    "PipEnvInformation": [],
+    "/home/lightning/yandex_dev/django_sprint1/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit ('venv': venv)",
+        "hash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4-b5541250895edfeea5bff000f7e4e4cc"
+      },
+      "expiry": 1727009081206
+    },
+    "/usr/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit",
+        "hash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621-0d51d5b26e3596d9d56766b513b1057c"
+      },
+      "expiry": 1728653713160
+    },
+    "/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit",
+        "hash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621-92d5c407d30dfa414f50888b747d98a6"
+      },
+      "expiry": 1728653712889
+    },
+    "/home/lightning/yandex_dev/django_sprint1/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4",
+        "info": {
+          "architecture": 3,
+          "path": "/home/lightning/yandex_dev/django_sprint1/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.3-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.3-final"
+          },
+          "sysPrefix": "/home/lightning/yandex_dev/django_sprint1/venv",
+          "fileHash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.12.3 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1727009081230
+    },
+    "/usr/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+        "info": {
+          "architecture": 3,
+          "path": "/usr/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.3-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.3-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+          "type": "Unknown",
+          "displayName": "Python 3.12.3 64-bit"
+        }
+      },
+      "expiry": 1728654624223
+    },
+    "/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+        "info": {
+          "architecture": 3,
+          "path": "/bin/python3",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.3-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.3-final"
+          },
+          "sysPrefix": "/usr",
+          "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+          "type": "Unknown",
+          "displayName": "Python 3.12.3 64-bit"
+        }
+      },
+      "expiry": 1728653712992
+    },
+    "preferredGlobalPyInterpreter": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "9d6fa5063330a51b61a53018d378ccc697f7aff99b5ef55cd4844908cd2e6ba7ec3952ad2ac1b2758810ac06327120560e145b7f94d81fcf16210a0f81e5d88c",
+      "type": "Unknown"
+    },
+    "InterpreterAutoSeletionRule-system": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+      "type": "Unknown",
+      "displayName": "Python 3.12.3 64-bit"
+    },
+    "/home/lightning/yandex_dev/django_sprint1/venv/bin/python3.12.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4"
+      },
+      "expiry": 1727009081449
+    },
+    "/home/lightning/yandex_dev/django_sprint1/venv/bin/python3.12.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit ('venv': venv)",
+        "hash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4-aeb05f3b86c7bb6753483f6a51a2aa5e"
+      },
+      "expiry": 1727009081504
+    },
+    "InterpreterAutoSeletionRule-cachedInterpreters": {
+      "architecture": 3,
+      "path": "/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+      "type": "Unknown",
+      "displayName": "Python 3.12.3 64-bit"
+    },
+    "ProposeLSBanner": false,
+    "pylint_DisableLinterInstallPrompt": true,
+    "/home/lightning/yandex_dev/django_sprint3/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint3/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint3/venv",
+        "fileHash": "94decc0f7439e5959859a41cc38cfc1ae87e579c527dc6b3e94d32f0a55897d5f367d92f4f67bf0dc093c2d02709908010516237a7212929df482e03928bb10a"
+      },
+      "expiry": 1727170249596
+    },
+    "/home/lightning/yandex_dev/django_sprint3/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint3/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint3/venv",
+        "fileHash": "94decc0f7439e5959859a41cc38cfc1ae87e579c527dc6b3e94d32f0a55897d5f367d92f4f67bf0dc093c2d02709908010516237a7212929df482e03928bb10a"
+      },
+      "expiry": 1727170249606
+    },
+    "/home/lightning/yandex_dev/django_sprint3/venv/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint3/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint3/venv",
+        "fileHash": "94decc0f7439e5959859a41cc38cfc1ae87e579c527dc6b3e94d32f0a55897d5f367d92f4f67bf0dc093c2d02709908010516237a7212929df482e03928bb10a"
+      },
+      "expiry": 1727170249640
+    },
+    "/home/lightning/yandex_dev/django_sprint3/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit ('venv': venv)",
+        "hash": "94decc0f7439e5959859a41cc38cfc1ae87e579c527dc6b3e94d32f0a55897d5f367d92f4f67bf0dc093c2d02709908010516237a7212929df482e03928bb10a-b77d987853c47eaa7612635a67495bb7"
+      },
+      "expiry": 1727170249677
+    },
+    "/home/lightning/yandex_dev/django_sprint3/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "94decc0f7439e5959859a41cc38cfc1ae87e579c527dc6b3e94d32f0a55897d5f367d92f4f67bf0dc093c2d02709908010516237a7212929df482e03928bb10a",
+        "info": {
+          "architecture": 3,
+          "path": "/home/lightning/yandex_dev/django_sprint3/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.3-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.3-final"
+          },
+          "sysPrefix": "/home/lightning/yandex_dev/django_sprint3/venv",
+          "fileHash": "94decc0f7439e5959859a41cc38cfc1ae87e579c527dc6b3e94d32f0a55897d5f367d92f4f67bf0dc093c2d02709908010516237a7212929df482e03928bb10a",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.12.3 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1727170249701
+    },
+    "/home/lightning/yandex_dev/django_sprint3/venv/bin/python3.12.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "94decc0f7439e5959859a41cc38cfc1ae87e579c527dc6b3e94d32f0a55897d5f367d92f4f67bf0dc093c2d02709908010516237a7212929df482e03928bb10a"
+      },
+      "expiry": 1727170249897
+    },
+    "/home/lightning/yandex_dev/django_sprint3/venv/bin/python3.12.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit ('venv': venv)",
+        "hash": "94decc0f7439e5959859a41cc38cfc1ae87e579c527dc6b3e94d32f0a55897d5f367d92f4f67bf0dc093c2d02709908010516237a7212929df482e03928bb10a-a055c4dfc46bdb5f5df5ce8adff112ff"
+      },
+      "expiry": 1727170249982
+    },
+    "/home/lightning/Projects/silfy/venv/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/silfy/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/silfy/venv",
+        "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b"
+      },
+      "expiry": 1727560486608
+    },
+    "/home/lightning/Projects/silfy/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/silfy/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/silfy/venv",
+        "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b"
+      },
+      "expiry": 1727560486648
+    },
+    "/home/lightning/Projects/silfy/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/silfy/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/silfy/venv",
+        "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b"
+      },
+      "expiry": 1727560486618
+    },
+    "/home/lightning/Projects/silfy/venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b"
+      },
+      "expiry": 1727560486840
+    },
+    "/home/lightning/Projects/silfy/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit ('venv': venv)",
+        "hash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b-a7ae5c4e6864bcd632a8c6cbe70605a6"
+      },
+      "expiry": 1727638259773
+    },
+    "/home/lightning/Projects/silfy/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b",
+        "info": {
+          "architecture": 3,
+          "path": "/home/lightning/Projects/silfy/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.3-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.3-final"
+          },
+          "sysPrefix": "/home/lightning/Projects/silfy/venv",
+          "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.12.3 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1727638259926
+    },
+    "/home/lightning/Projects/silfy/venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit ('venv': venv)",
+        "hash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b-c239b13a9750a53ba05793b6335b67c8"
+      },
+      "expiry": 1727560487108
+    },
+    "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/hello/Projects/TestingDirectory/venv",
+        "fileHash": "d1418c3dc0084041569fc3218ba62f36a8313393d0fda7142c2093f2828cc47757a3ece27e89c01a8318d4c264f706f4ab79f8571cdd2b3b77d4786a06b5c2dc"
+      },
+      "expiry": 1728440576409
+    },
+    "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/hello/Projects/TestingDirectory/venv",
+        "fileHash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891"
+      },
+      "expiry": 1728440576418
+    },
+    "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/hello/Projects/TestingDirectory/venv",
+        "fileHash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891"
+      },
+      "expiry": 1728440576426
+    },
+    "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891"
+      },
+      "expiry": 1728440576496
+    },
+    "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit",
+        "hash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891-2b0119c030ee8aeb15dae3cbf6757c33"
+      },
+      "expiry": 1728442317377
+    },
+    "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891",
+        "info": {
+          "architecture": 3,
+          "path": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.3-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.3-final"
+          },
+          "sysPrefix": "/home/lightning/hello/Projects/TestingDirectory/venv",
+          "fileHash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891",
+          "type": "Unknown",
+          "displayName": "Python 3.12.3 64-bit"
+        }
+      },
+      "expiry": 1728442317445
+    },
+    "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit ('venv': venv)",
+        "hash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891-93439032701aa3ff0adac3e314ca097d"
+      },
+      "expiry": 1728440576906
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+      "type": "Unknown"
+    }
+  },
+  "coc-python|/home/lightning/yandex_dev/django_sprint1": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:8a875b57406bccac8639938aa49f1d09": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:8a875b57406bccac8639938aa49f1d09": [
+      {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint1/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint1/venv",
+        "fileHash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint1/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint1/venv",
+        "fileHash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint1/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint1/venv",
+        "fileHash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/lightning/yandex_dev/django_sprint1/venv/bin/python3.12",
+    "autoSelectedWorkspacePythonInterpreter-/home/lightning/yandex_dev/django_sprint1": {
+      "architecture": 3,
+      "path": "/home/lightning/yandex_dev/django_sprint1/venv/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/home/lightning/yandex_dev/django_sprint1/venv",
+      "fileHash": "1b91b2774e8a00a0ba0ed316204390267a0a571533ef50dcd124f3cde2b64386ea9d6073252441e2443f0e313549666153e98c54ead53edfa73ef3a071aabcd4",
+      "envName": "venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/lightning/.vim/bundle/coc.nvim": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:aa39e2e32967c93d9fef547b31ab82c9": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:aa39e2e32967c93d9fef547b31ab82c9": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/lightning/.vim/bundle/coc.nvim": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "9d6fa5063330a51b61a53018d378ccc697f7aff99b5ef55cd4844908cd2e6ba7ec3952ad2ac1b2758810ac06327120560e145b7f94d81fcf16210a0f81e5d88c",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/lightning": {
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [],
+    "INTERPRETERS_CACHE_v3_PipEnvService": []
+  },
+  "coc-python|/home/lightning/yandex_dev/django_sprint3": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:6effb68b678caaeb873918996704fe48": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:6effb68b678caaeb873918996704fe48": [
+      {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint3/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint3/venv",
+        "fileHash": "94decc0f7439e5959859a41cc38cfc1ae87e579c527dc6b3e94d32f0a55897d5f367d92f4f67bf0dc093c2d02709908010516237a7212929df482e03928bb10a",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint3/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint3/venv",
+        "fileHash": "94decc0f7439e5959859a41cc38cfc1ae87e579c527dc6b3e94d32f0a55897d5f367d92f4f67bf0dc093c2d02709908010516237a7212929df482e03928bb10a",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/yandex_dev/django_sprint3/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/yandex_dev/django_sprint3/venv",
+        "fileHash": "94decc0f7439e5959859a41cc38cfc1ae87e579c527dc6b3e94d32f0a55897d5f367d92f4f67bf0dc093c2d02709908010516237a7212929df482e03928bb10a",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/lightning/yandex_dev/django_sprint3/venv/bin/python3.12",
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/lightning/Projects/silfy": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d56a4f6983c1033722601c39802dd547": [],
+    "SelectedPythonPath": "/home/lightning/Projects/silfy/venv/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d56a4f6983c1033722601c39802dd547": [
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/silfy/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/silfy/venv",
+        "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/silfy/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/silfy/venv",
+        "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/silfy/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/silfy/venv",
+        "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/lightning/Projects/silfy": {
+      "architecture": 3,
+      "path": "/home/lightning/Projects/silfy/venv/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/home/lightning/Projects/silfy/venv",
+      "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b",
+      "envName": "venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/silfy/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/silfy/venv",
+        "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/silfy/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/silfy/venv",
+        "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/silfy/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/silfy/venv",
+        "fileHash": "d0cb632d173ab55e079e16d117d70a07774c66aca0599d329a5b4a34441a0f6735c38ebcd7a1360f0aae41bb1113429f3fbf24272f68da856c187c7ca948b42b",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/lightning/.config": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:67c24b13e5d15327dc210d0b81c160ba": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:67c24b13e5d15327dc210d0b81c160ba": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/lightning/.config": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "9d6fa5063330a51b61a53018d378ccc697f7aff99b5ef55cd4844908cd2e6ba7ec3952ad2ac1b2758810ac06327120560e145b7f94d81fcf16210a0f81e5d88c",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/lightning/hello/Projects/Sylphy": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:d6bb5e5968a06986b8c2404d6109b06d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:d6bb5e5968a06986b8c2404d6109b06d": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/lightning/hello/Projects/Sylphy": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "9d6fa5063330a51b61a53018d378ccc697f7aff99b5ef55cd4844908cd2e6ba7ec3952ad2ac1b2758810ac06327120560e145b7f94d81fcf16210a0f81e5d88c",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/lightning/hello/Projects/TestingDirectory": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f8e121d865839be09098c2a41afa4a52": [],
+    "SelectedPythonPath": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f8e121d865839be09098c2a41afa4a52": [
+      {
+        "architecture": 3,
+        "path": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/hello/Projects/TestingDirectory/venv",
+        "fileHash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/hello/Projects/TestingDirectory/venv",
+        "fileHash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/hello/Projects/TestingDirectory/venv",
+        "fileHash": "d1418c3dc0084041569fc3218ba62f36a8313393d0fda7142c2093f2828cc47757a3ece27e89c01a8318d4c264f706f4ab79f8571cdd2b3b77d4786a06b5c2dc",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/lightning/hello/Projects/TestingDirectory": {
+      "architecture": 3,
+      "path": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/home/lightning/hello/Projects/TestingDirectory/venv",
+      "fileHash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/hello/Projects/TestingDirectory/venv",
+        "fileHash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/hello/Projects/TestingDirectory/venv",
+        "fileHash": "61d0d7304f918d7dd80bcc473208080da46ea4a64961fc5c086038828267803dd3e9ceeb2804f956407ce2fd41c3ded762ea20a351456434369131e18f108891",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/hello/Projects/TestingDirectory/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/hello/Projects/TestingDirectory/venv",
+        "fileHash": "d1418c3dc0084041569fc3218ba62f36a8313393d0fda7142c2093f2828cc47757a3ece27e89c01a8318d4c264f706f4ab79f8571cdd2b3b77d4786a06b5c2dc",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/lightning/Projects/Sylphy": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:782fdce622d6a6b453d95522e0cb48ff": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:782fdce622d6a6b453d95522e0cb48ff": [],
+    "autoSelectedWorkspacePythonInterpreter-/home/lightning/Projects/Sylphy": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "9d6fa5063330a51b61a53018d378ccc697f7aff99b5ef55cd4844908cd2e6ba7ec3952ad2ac1b2758810ac06327120560e145b7f94d81fcf16210a0f81e5d88c",
+      "type": "Unknown"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  }
+}

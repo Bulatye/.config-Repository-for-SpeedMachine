@@ -1,0 +1,89 @@
+2024/10/12-02:03:39.472 115e5 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2024/10/12-02:03:39.474 115e5 Recovering log #3140
+2024/10/12-02:03:39.479 115e5 Reusing old log /home/lightning/.config/google-chrome/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/003140.log 
+2024/10/12-02:05:23.640 115e7 Compacting 3@0 + 1@1 files
+2024/10/12-02:05:23.673 115e7 Generated table #3143@0: 6 keys, 1050099 bytes
+2024/10/12-02:05:23.674 115e7 Compacted 3@0 + 1@1 files => 1050099 bytes
+2024/10/12-02:05:23.678 115e7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/12-02:05:23.679 115e7 Delete type=2 #3137
+2024/10/12-02:05:23.679 115e7 Delete type=2 #3141
+2024/10/12-02:05:23.679 115e7 Delete type=2 #3135
+2024/10/12-02:05:23.679 115e7 Delete type=2 #3139
+2024/10/12-02:08:47.615 115e7 Compacting 1@1 + 1@2 files
+2024/10/12-02:08:47.645 115e7 Generated table #3144@1: 27 keys, 1050992 bytes
+2024/10/12-02:08:47.645 115e7 Compacted 1@1 + 1@2 files => 1050992 bytes
+2024/10/12-02:08:47.648 115e7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/12-02:08:47.648 115e7 Delete type=2 #3143
+2024/10/12-02:08:47.648 115e7 Delete type=2 #3133
+2024/10/12-02:27:07.231 115e7 Level-0 table #3146: started
+2024/10/12-02:27:07.245 115e7 Level-0 table #3146: 718214 bytes OK
+2024/10/12-02:27:07.250 115e7 Delete type=0 #3140
+2024/10/12-02:42:56.201 115e7 Compacting 1@1 + 1@2 files
+2024/10/12-02:42:56.250 115e7 Generated table #3147@1: 27 keys, 1056977 bytes
+2024/10/12-02:42:56.251 115e7 Compacted 1@1 + 1@2 files => 1056977 bytes
+2024/10/12-02:42:56.256 115e7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/12-02:42:56.257 115e7 Delete type=2 #3144
+2024/10/12-02:42:56.257 115e7 Delete type=2 #3146
+2024/10/12-05:14:40.624 115e6 Level-0 table #3149: started
+2024/10/12-05:14:40.648 115e6 Level-0 table #3149: 743844 bytes OK
+2024/10/12-05:14:40.657 115e6 Delete type=0 #3145
+2024/10/12-05:24:52.400 115e7 Compacting 1@1 + 1@2 files
+2024/10/12-05:24:52.438 115e7 Generated table #3150@1: 27 keys, 1056833 bytes
+2024/10/12-05:24:52.438 115e7 Compacted 1@1 + 1@2 files => 1056833 bytes
+2024/10/12-05:24:52.447 115e7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/10/12-05:24:52.448 115e7 Delete type=2 #3147
+2024/10/12-05:24:52.448 115e7 Delete type=2 #3149
+2024/10/12-09:26:45.336 115e7 Level-0 table #3152: started
+2024/10/12-09:26:45.378 115e7 Level-0 table #3152: 2789467 bytes OK
+2024/10/12-09:26:45.384 115e7 Delete type=0 #3148
+2024/10/12-09:29:48.187 115e7 Compacting 1@1 + 1@2 files
+2024/10/12-09:29:48.224 115e7 Generated table #3153@1: 3 keys, 2105686 bytes
+2024/10/12-09:29:48.229 115e7 Generated table #3154@1: 24 keys, 18192 bytes
+2024/10/12-09:29:48.229 115e7 Compacted 1@1 + 1@2 files => 2123878 bytes
+2024/10/12-09:29:48.232 115e7 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/10/12-09:29:48.232 115e7 Delete type=2 #3150
+2024/10/12-09:29:48.232 115e7 Delete type=2 #3152
+2024/10/12-14:36:35.973 115e5 Level-0 table #3156: started
+2024/10/12-14:36:36.010 115e5 Level-0 table #3156: 711044 bytes OK
+2024/10/12-14:36:36.017 115e5 Delete type=0 #3151
+2024/10/12-14:51:27.255 115e5 Level-0 table #3158: started
+2024/10/12-14:51:27.374 115e5 Level-0 table #3158: 2779844 bytes OK
+2024/10/12-14:51:27.379 115e5 Delete type=0 #3155
+2024/10/12-14:56:20.921 115e5 Compacting 1@0 + 1@1 files
+2024/10/12-14:56:20.982 115e5 Generated table #3159@0: 1 keys, 2105884 bytes
+2024/10/12-14:56:20.997 115e5 Generated table #3160@0: 4 keys, 17777 bytes
+2024/10/12-14:56:20.998 115e5 Compacted 1@0 + 1@1 files => 2123661 bytes
+2024/10/12-14:56:21.002 115e5 compacted to: files[ 0 2 2 0 0 0 0 ]
+2024/10/12-14:56:21.004 115e5 Delete type=2 #3158
+2024/10/12-14:56:21.004 115e5 Delete type=2 #3156
+2024/10/12-15:01:27.218 115e5 Compacting 1@1 + 1@2 files
+2024/10/12-15:01:27.230 115e5 Generated table #3161@1: 24 keys, 18695 bytes
+2024/10/12-15:01:27.230 115e5 Compacted 1@1 + 1@2 files => 18695 bytes
+2024/10/12-15:01:27.234 115e5 compacted to: files[ 0 1 2 0 0 0 0 ]
+2024/10/12-15:01:27.235 115e5 Delete type=2 #3154
+2024/10/12-15:01:27.235 115e5 Delete type=2 #3160
+2024/10/12-15:17:21.560 115e7 Level-0 table #3163: started
+2024/10/12-15:17:21.588 115e7 Level-0 table #3163: 768685 bytes OK
+2024/10/12-15:17:21.593 115e7 Delete type=0 #3157
+2024/10/12-15:58:27.311 115e7 Compacting 1@1 + 1@2 files
+2024/10/12-15:58:27.324 115e7 Generated table #3164@1: 24 keys, 19148 bytes
+2024/10/12-15:58:27.324 115e7 Compacted 1@1 + 1@2 files => 19148 bytes
+2024/10/12-15:58:27.327 115e7 compacted to: files[ 0 1 2 0 0 0 0 ]
+2024/10/12-15:58:27.327 115e7 Delete type=2 #3161
+2024/10/12-15:58:27.327 115e7 Delete type=2 #3163
+2024/10/12-18:53:03.031 115e7 Level-0 table #3166: started
+2024/10/12-18:53:03.072 115e7 Level-0 table #3166: 2381062 bytes OK
+2024/10/12-18:53:03.076 115e7 Delete type=0 #3162
+2024/10/12-19:03:05.121 115e7 Compacting 1@0 + 1@1 files
+2024/10/12-19:03:05.167 115e7 Generated table #3167@0: 2 keys, 2119406 bytes
+2024/10/12-19:03:05.173 115e7 Generated table #3168@0: 4 keys, 18552 bytes
+2024/10/12-19:03:05.173 115e7 Compacted 1@0 + 1@1 files => 2137958 bytes
+2024/10/12-19:03:05.177 115e7 compacted to: files[ 0 2 2 0 0 0 0 ]
+2024/10/12-19:03:05.177 115e7 Delete type=2 #3159
+2024/10/12-19:03:05.177 115e7 Delete type=2 #3166
+2024/10/12-19:14:56.430 115e7 Compacting 1@1 + 1@2 files
+2024/10/12-19:14:56.440 115e7 Generated table #3169@1: 24 keys, 19472 bytes
+2024/10/12-19:14:56.440 115e7 Compacted 1@1 + 1@2 files => 19472 bytes
+2024/10/12-19:14:56.443 115e7 compacted to: files[ 0 1 2 0 0 0 0 ]
+2024/10/12-19:14:56.444 115e7 Delete type=2 #3168
+2024/10/12-19:14:56.444 115e7 Delete type=2 #3164

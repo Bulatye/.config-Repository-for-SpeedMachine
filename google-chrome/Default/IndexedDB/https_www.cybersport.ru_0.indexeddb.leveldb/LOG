@@ -1,0 +1,6 @@
+2024/10/12-15:15:21.311 115e5 Creating DB /home/lightning/.config/google-chrome/Default/IndexedDB/https_www.cybersport.ru_0.indexeddb.leveldb since it was missing.
+2024/10/12-15:15:21.328 115e5 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_www.cybersport.ru_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/12-15:16:11.303 115e7 Level-0 table #5: started
+2024/10/12-15:16:11.315 115e7 Level-0 table #5: 6502 bytes OK
+2024/10/12-15:16:11.323 115e7 Delete type=0 #3
+2024/10/12-15:16:11.324 115e7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

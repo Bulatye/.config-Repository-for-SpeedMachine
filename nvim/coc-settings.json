@@ -1,0 +1,35 @@
+{
+  "coc.preferences.completionItemKindOrder": [
+    "Function",
+    "Method",
+    "Constructor",
+    "Field",
+    "Variable",
+    "Class",
+    "Interface",
+    "Module",
+    "Property",
+    "Unit",
+    "Value",
+    "Enum",
+    "Keyword",
+    "Snippet",
+    "Color",
+    "File",
+    "Reference",
+    "Folder",
+    "EnumMember",
+    "Constant",
+    "Struct",
+    "Event",
+    "Operator",
+    "TypeParameter"
+  ],
+  "coc.preferences.completionItemFilter": [
+    {
+      "label": ".*[а-яА-Я].*",
+      "kind": "Text"
+    }
+  ]
+}
+

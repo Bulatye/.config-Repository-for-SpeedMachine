@@ -1,0 +1,6 @@
+2024/10/04-07:56:01.552 2787 Creating DB /home/lightning/.config/google-chrome/Default/IndexedDB/https_clickup.com_0.indexeddb.leveldb since it was missing.
+2024/10/04-07:56:01.560 2787 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_clickup.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/04-07:56:02.128 2787 Level-0 table #5: started
+2024/10/04-07:56:02.132 2787 Level-0 table #5: 3186 bytes OK
+2024/10/04-07:56:02.137 2787 Delete type=0 #3
+2024/10/04-07:56:02.137 2787 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

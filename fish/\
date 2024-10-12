@@ -1,0 +1,16 @@
+# start custom theme
+starship init fish | source
+# add function that provides ability to switch En to Ru.
+setxkbmap -layout us,ru -variant -option grp:alt_shift_toggle
+# abbrs
+# Сonfiguration files
+abbr config.fish vim  ~/.config/fish/config.fish
+abbr config.i3 vim ~/.config/i3/config
+abbr config.kitty vim ~/.config/kitty/kitty.conf
+abbr config cd ~/.config
+abbr telega telegram-desktop &
+abbr fox fox &
+# functions
+function fish_greeting
+end
+

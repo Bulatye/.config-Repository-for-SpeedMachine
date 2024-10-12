@@ -1,0 +1,6 @@
+2024/10/04-15:00:13.351 2787 Creating DB /home/lightning/.config/google-chrome/Default/IndexedDB/https_ru.warface.com_0.indexeddb.leveldb since it was missing.
+2024/10/04-15:00:13.368 2787 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_ru.warface.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/04-16:48:14.550 2788 Level-0 table #5: started
+2024/10/04-16:48:14.554 2788 Level-0 table #5: 1844 bytes OK
+2024/10/04-16:48:14.559 2788 Delete type=0 #3
+2024/10/04-16:48:14.559 2788 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

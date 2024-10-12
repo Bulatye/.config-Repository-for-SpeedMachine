@@ -1,0 +1,6 @@
+2024/10/12-02:03:37.904 115f0 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/10/12-02:03:37.905 115f0 Recovering log #111
+2024/10/12-02:03:37.906 115f0 Reusing old log /home/lightning/.config/google-chrome/Default/Sync Data/LevelDB/000111.log 
+2024/10/12-14:39:03.071 115e5 Level-0 table #115: started
+2024/10/12-14:39:03.091 115e5 Level-0 table #115: 93231 bytes OK
+2024/10/12-14:39:03.098 115e5 Delete type=0 #111
