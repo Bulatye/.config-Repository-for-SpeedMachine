@@ -1,3 +1,6 @@
 2024/10/12-15:17:27.428 115e6 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
 2024/10/12-15:17:27.429 115e6 Recovering log #66
 2024/10/12-15:17:27.429 115e6 Reusing old log /home/lightning/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000066.log 
+2024/10/12-21:39:24.758 115e7 Level-0 table #71: started
+2024/10/12-21:39:24.779 115e7 Level-0 table #71: 1448941 bytes OK
+2024/10/12-21:39:24.784 115e7 Delete type=0 #66
