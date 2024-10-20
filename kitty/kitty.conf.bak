@@ -2,7 +2,7 @@
 window_margin_width 25
 # inactive_border_color #cccccc
 # BEGIN_KITTY_THEME
-# C64
+# Sakura Night
 include current-theme.conf
 # END_KITTY_THEME
 enable_audio_bell no

@@ -1,6 +1,0 @@
-2024/09/21-17:59:24.644 d1d Creating DB /home/lightning/.config/google-chrome/Default/IndexedDB/https_skillbox.ru_0.indexeddb.leveldb since it was missing.
-2024/09/21-17:59:24.653 d1d Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_skillbox.ru_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/21-22:00:36.391 d1e Level-0 table #5: started
-2024/09/21-22:00:36.395 d1e Level-0 table #5: 1836 bytes OK
-2024/09/21-22:00:36.398 d1e Delete type=0 #3
-2024/09/21-22:00:36.398 d1e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

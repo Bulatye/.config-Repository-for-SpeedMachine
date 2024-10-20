@@ -1,6 +1,0 @@
-2024/10/11-23:56:03.152 5c68 Creating DB /home/lightning/.config/google-chrome/Default/IndexedDB/https_mail.ru_0.indexeddb.leveldb since it was missing.
-2024/10/11-23:56:03.164 5c68 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_mail.ru_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/11-23:59:53.011 5c6a Level-0 table #5: started
-2024/10/11-23:59:53.018 5c6a Level-0 table #5: 1830 bytes OK
-2024/10/11-23:59:53.024 5c6a Delete type=0 #3
-2024/10/11-23:59:53.024 5c6a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2024/10/08-04:57:38.387 2dfe4 Creating DB /home/lightning/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb since it was missing.
-2024/10/08-04:57:38.398 2dfe4 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/08-04:58:49.060 2dfe5 Level-0 table #5: started
-2024/10/08-04:58:49.064 2dfe5 Level-0 table #5: 3184 bytes OK
-2024/10/08-04:58:49.067 2dfe5 Delete type=0 #3
-2024/10/08-04:58:49.068 2dfe5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

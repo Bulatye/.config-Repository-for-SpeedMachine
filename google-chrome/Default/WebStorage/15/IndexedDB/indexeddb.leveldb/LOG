@@ -1,7 +1,0 @@
-2024/10/06-03:49:41.136 2788 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/WebStorage/15/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/10/06-03:49:41.137 2788 Recovering log #3
-2024/10/06-03:49:41.139 2788 Reusing old log /home/lightning/.config/google-chrome/Default/WebStorage/15/IndexedDB/indexeddb.leveldb/000003.log 
-2024/10/06-03:50:26.109 2788 Level-0 table #5: started
-2024/10/06-03:50:26.149 2788 Level-0 table #5: 387178 bytes OK
-2024/10/06-03:50:26.155 2788 Delete type=0 #3
-2024/10/06-03:50:26.157 2788 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

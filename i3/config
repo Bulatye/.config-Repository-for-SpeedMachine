@@ -11,7 +11,7 @@ set $mod Mod4
 # Adds the ability to change the layout to Russian
 exec --no-startup-id setxkbmap -model pc105 -layout us,ru -variant -option grp:alt_shift_toggle
 # Change background image
-exec --no-startup-id feh --bg-fill ~/.config/wallpapers/wallpaper404.png
+exec --no-startup-id feh --bg-fill ~/.config/wallpapers/w8.jpg
 # Turn on screen lock over time
 exec --no-startup-id xset s off
 # Font for window titles. Will also be used by the bar unless a different font
@@ -47,6 +47,11 @@ floating_modifier $mod
 bindsym Control+p exec --no-startup-id scrot -e 'xclip -selection clipboard -t image/png < $f && rm $f'
 # start chrome
 bindsym Control+b exec --no-startup-id google-chrome
+# Переключение между рабочими столами вперед с помощью Alt+Tab
+bindsym $mod+Tab workspace_next
+# Переключение между рабочими столами назад с помощью Alt+Shift+Tab
+bindsym $mod+Shift+Tab workspace_previous
+
 
 # move tiling windows via drag & drop by left-clicking into the title bar,
 # or left-clicking anywhere into the window while holding the floating modifier.

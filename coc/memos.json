@@ -26,7 +26,7 @@
         "sysPrefix": "/usr",
         "fileHash": "85cf48926e6ee7df9f82daf9a055da831d9ebab751fb09597b67a1ffd5b7ae4239f29e028d49973d3050499d4ee7bf79aaee5f446612d32ebccf7034c3924654"
       },
-      "expiry": 1728653712658
+      "expiry": 1729529487841
     },
     "/usr/bin/python3.v3": {
       "data": {
@@ -51,7 +51,7 @@
         "sysPrefix": "/usr",
         "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621"
       },
-      "expiry": 1728653712693
+      "expiry": 1729529487849
     },
     "/bin/python3.12.v3": {
       "data": {
@@ -76,7 +76,7 @@
         "sysPrefix": "/usr",
         "fileHash": "85cf48926e6ee7df9f82daf9a055da831d9ebab751fb09597b67a1ffd5b7ae4239f29e028d49973d3050499d4ee7bf79aaee5f446612d32ebccf7034c3924654"
       },
-      "expiry": 1728653712678
+      "expiry": 1729529487900
     },
     "/bin/python3.v3": {
       "data": {
@@ -101,7 +101,7 @@
         "sysPrefix": "/usr",
         "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621"
       },
-      "expiry": 1728653712684
+      "expiry": 1729529487915
     },
     "/home/lightning/yandex_dev/django_sprint1/venv/bin/python3.v3": {
       "data": {
@@ -150,6 +150,29 @@
         },
         "sysPrefix": "/usr",
         "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+        "type": "Unknown"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
         "type": "Unknown"
       }
     ],
@@ -402,14 +425,14 @@
         "displayName": "Python 3.12.3 64-bit",
         "hash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621-0d51d5b26e3596d9d56766b513b1057c"
       },
-      "expiry": 1728653713160
+      "expiry": 1729529488413
     },
     "/bin/python3.interpreter.displayName.v7": {
       "data": {
         "displayName": "Python 3.12.3 64-bit",
         "hash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621-92d5c407d30dfa414f50888b747d98a6"
       },
-      "expiry": 1728653712889
+      "expiry": 1729529488421
     },
     "/home/lightning/yandex_dev/django_sprint1/venv/bin/python.interpreter.Details.v7": {
       "data": {
@@ -470,7 +493,7 @@
           "displayName": "Python 3.12.3 64-bit"
         }
       },
-      "expiry": 1728654624223
+      "expiry": 1729529488563
     },
     "/bin/python3.interpreter.Details.v7": {
       "data": {
@@ -500,7 +523,7 @@
           "displayName": "Python 3.12.3 64-bit"
         }
       },
-      "expiry": 1728653712992
+      "expiry": 1729529488585
     },
     "preferredGlobalPyInterpreter": {
       "architecture": 3,
@@ -965,9 +988,247 @@
       },
       "expiry": 1728440576906
     },
-    "InterpreterAutoSeletionRule-currentPath": {
+    "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c"
+      },
+      "expiry": 1729051572877
+    },
+    "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c"
+      },
+      "expiry": 1729051572885
+    },
+    "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c"
+      },
+      "expiry": 1729051572889
+    },
+    "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c"
+      },
+      "expiry": 1729051572927
+    },
+    "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit ('venv': venv)",
+        "hash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c-8095bb60bb99c3e5c65bb74485b6fef8"
+      },
+      "expiry": 1729051572994
+    },
+    "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "",
+        "info": {
+          "architecture": 3,
+          "path": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.3-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.3-final"
+          },
+          "sysPrefix": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv",
+          "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+          "type": "Unknown",
+          "displayName": "Python 3.12.3 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1729071795003
+    },
+    "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit ('venv': venv)",
+        "hash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c-80015c3351ea07e6a8e30fb04a18adef"
+      },
+      "expiry": 1729051573215
+    },
+    "/home/lightning/Projects/wimfc/venv/bin/python.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c"
+      },
+      "expiry": 1729529487979
+    },
+    "/home/lightning/Projects/wimfc/venv/bin/python3.12.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c"
+      },
+      "expiry": 1729529488036
+    },
+    "/home/lightning/Projects/wimfc/venv/bin/python3.v3": {
+      "data": {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c"
+      },
+      "expiry": 1729529487972
+    },
+    "/home/lightning/Projects/wimfc/venv/bin/python.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit ('venv': venv)",
+        "hash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c-0538a97194bc7913747f7240c043e8b8"
+      },
+      "expiry": 1729529488405
+    },
+    "/home/lightning/Projects/wimfc/venv/bin/python.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "info": {
+          "architecture": 3,
+          "path": "/home/lightning/Projects/wimfc/venv/bin/python",
+          "version": {
+            "options": {
+              "loose": false,
+              "includePrerelease": false
+            },
+            "loose": false,
+            "raw": "3.12.3-final",
+            "major": 3,
+            "minor": 12,
+            "patch": 3,
+            "prerelease": [
+              "final"
+            ],
+            "build": [],
+            "version": "3.12.3-final"
+          },
+          "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+          "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+          "envName": "venv",
+          "type": "Venv",
+          "displayName": "Python 3.12.3 64-bit ('venv': venv)"
+        }
+      },
+      "expiry": 1729529488534
+    },
+    "InterpreterAutoSeletionRule-workspaceEnvs": {
       "architecture": 3,
-      "path": "/usr/bin/python3",
+      "path": "/home/lightning/Projects/wimfc/venv/bin/python3.12",
       "version": {
         "options": {
           "loose": false,
@@ -984,8 +1245,45 @@
         "build": [],
         "version": "3.12.3-final"
       },
-      "sysPrefix": "/usr",
-      "fileHash": "217e87cce263503da3948d1232571f5e5b8fd3daa34bf14b2ccdfadc396ec93c0d56250e6ad5ff4507d154c99d7e74a6e0f76b346a05335b0460aff07ef83621",
+      "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+      "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+      "envName": "venv",
+      "type": "Venv"
+    },
+    "/home/lightning/Projects/wimfc/venv/bin/python3.12.interpreter.Details.v7": {
+      "data": {
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c"
+      },
+      "expiry": 1729529488440
+    },
+    "/home/lightning/Projects/wimfc/venv/bin/python3.12.interpreter.displayName.v7": {
+      "data": {
+        "displayName": "Python 3.12.3 64-bit ('venv': venv)",
+        "hash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c-61f6640f22b16447a22fc092d4fcdd29"
+      },
+      "expiry": 1729529488711
+    },
+    "InterpreterAutoSeletionRule-currentPath": {
+      "architecture": 3,
+      "path": "/home/lightning/Projects/wimfc/venv/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+      "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
       "type": "Unknown"
     }
   },
@@ -1645,5 +1943,433 @@
     },
     "INTERPRETERS_CACHE_v3_PipEnvService": [],
     "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": []
+  },
+  "coc-python|/home/lightning/Projects/what_is_my_favorite_command_in_fish": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:7fd361ddc3bfcaa7cd54aef9de216bcd": [],
+    "SelectedPythonPath": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3",
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:7fd361ddc3bfcaa7cd54aef9de216bcd": [
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "autoSelectedWorkspacePythonInterpreter-/home/lightning/Projects/what_is_my_favorite_command_in_fish": {
+      "architecture": 3,
+      "path": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv",
+      "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+      "type": "VirtualEnv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/what_is_my_favorite_command_in_fish/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "INTERPRETERS_CACHE_v3_PipEnvService:f21af4c4df77508728694c738800f96d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f21af4c4df77508728694c738800f96d": [
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ]
+  },
+  "coc-python|/home/lightning/Projects/wimfc": {
+    "INTERPRETERS_CACHE_v3_PipEnvService:f21af4c4df77508728694c738800f96d": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService:f21af4c4df77508728694c738800f96d": [
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ],
+    "SelectedPythonPath": "/home/lightning/Projects/wimfc/venv/bin/python3.12",
+    "autoSelectedWorkspacePythonInterpreter-/home/lightning/Projects/wimfc": {
+      "architecture": 3,
+      "path": "/home/lightning/Projects/wimfc/venv/bin/python3.12",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.12.3-final",
+        "major": 3,
+        "minor": 12,
+        "patch": 3,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.12.3-final"
+      },
+      "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+      "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+      "envName": "venv",
+      "type": "Venv"
+    },
+    "INTERPRETERS_CACHE_v3_PipEnvService": [],
+    "INTERPRETERS_CACHE_v3_WorkspaceVirtualEnvService": [
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python3",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      },
+      {
+        "architecture": 3,
+        "path": "/home/lightning/Projects/wimfc/venv/bin/python3.12",
+        "version": {
+          "options": {
+            "loose": false,
+            "includePrerelease": false
+          },
+          "loose": false,
+          "raw": "3.12.3-final",
+          "major": 3,
+          "minor": 12,
+          "patch": 3,
+          "prerelease": [
+            "final"
+          ],
+          "build": [],
+          "version": "3.12.3-final"
+        },
+        "sysPrefix": "/home/lightning/Projects/wimfc/venv",
+        "fileHash": "568ddef53aaa3535bfdabb052aff2320d7ed542beca12af36afc96de5b2cc09bd62958d372974d59bb571c4cc906a5fd166872a20f860c6adfdfaca2094b907c",
+        "envName": "venv",
+        "type": "Venv"
+      }
+    ]
   }
 }

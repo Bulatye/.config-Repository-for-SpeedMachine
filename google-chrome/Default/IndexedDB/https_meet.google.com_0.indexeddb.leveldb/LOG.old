@@ -1,7 +1,0 @@
-2024/10/12-05:14:40.455 115e5 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/12-05:14:40.455 115e5 Recovering log #3
-2024/10/12-05:14:40.455 115e5 Reusing old log /home/lightning/.config/google-chrome/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000003.log 
-2024/10/12-05:22:22.446 115e7 Level-0 table #5: started
-2024/10/12-05:22:22.458 115e7 Level-0 table #5: 10260 bytes OK
-2024/10/12-05:22:22.466 115e7 Delete type=0 #3
-2024/10/12-05:22:22.467 115e7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,6 +1,0 @@
-2024/10/12-00:33:51.170 5c68 Creating DB /home/lightning/.config/google-chrome/Default/IndexedDB/https_w.kast.gg_0.indexeddb.leveldb since it was missing.
-2024/10/12-00:33:51.180 5c68 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_w.kast.gg_0.indexeddb.leveldb/MANIFEST-000001
-2024/10/12-00:37:20.478 5c69 Level-0 table #5: started
-2024/10/12-00:37:20.482 5c69 Level-0 table #5: 5834 bytes OK
-2024/10/12-00:37:20.486 5c69 Delete type=0 #3
-2024/10/12-00:37:20.486 5c69 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

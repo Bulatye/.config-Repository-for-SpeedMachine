@@ -1,6 +1,0 @@
-2024/09/29-14:17:12.526 70003 Creating DB /home/lightning/.config/google-chrome/Default/IndexedDB/https_www.ozon.ru_0.indexeddb.leveldb since it was missing.
-2024/09/29-14:17:12.541 70003 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/IndexedDB/https_www.ozon.ru_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/29-14:20:28.053 70005 Level-0 table #5: started
-2024/09/29-14:20:28.065 70005 Level-0 table #5: 19081 bytes OK
-2024/09/29-14:20:28.069 70005 Delete type=0 #3
-2024/09/29-14:20:28.069 70005 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

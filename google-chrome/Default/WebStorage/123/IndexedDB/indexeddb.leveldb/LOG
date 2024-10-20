@@ -1,6 +1,0 @@
-2024/10/09-21:20:26.253 f14 Creating DB /home/lightning/.config/google-chrome/Default/WebStorage/123/IndexedDB/indexeddb.leveldb since it was missing.
-2024/10/09-21:20:26.264 f14 Reusing MANIFEST /home/lightning/.config/google-chrome/Default/WebStorage/123/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/10/10-04:26:38.782 f15 Level-0 table #5: started
-2024/10/10-04:26:38.786 f15 Level-0 table #5: 206514 bytes OK
-2024/10/10-04:26:38.790 f15 Delete type=0 #3
-2024/10/10-04:26:38.791 f15 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
