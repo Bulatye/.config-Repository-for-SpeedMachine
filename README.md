@@ -6,11 +6,4 @@ This repository is a copy of the `.config` directory from an Ubuntu Linux host n
 - **kitty**: A fast, feature-rich, GPU-based terminal emulator.
 - **i3wm**: A tiling window manager designed for advanced users.
 
-Feel free to use any of these configurations if you happen to find this page. In the future, I plan to expand this list and add documentation to make these configurations easier to use.
-
-# .config-Repository-for-SpeedMachine
-# .config-Repository-for-SpeedMachine
-# .config-Repository-for-SpeedMachine
-# .config-Repository-for-SpeedMachine
-# .config-Repository-for-SpeedMachine
-# .config-Repository-for-SpeedMachine
+Feel free to use any of these configurations if you happen to find this page. In the future, I plan to expand this list and add documentation to make these configurations easier to use
